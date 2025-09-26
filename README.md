@@ -2,12 +2,12 @@
 
 - Fazer os exercícios do Curso em Vídeo (utilizando C no lugar de Python)
 - Aprender os seguintes tópicos em paralelo:
-> Ponteiros
-> Gerenciamento de Memória
-> Structs & Onions
-> Enums
-> File I/O
-> Testes (assert.h)
-> Makefile 
-> Organizar projetos simples
-> Algoritmos e Estruturas de Dados
+
+1. Ponteiros
+2. Gerenciamento de Memória
+3. Structs & Onions
+4. Enums
+5. File I/O
+6. Testes (assert.h)
+7. Makefile 
+8. Organizar projetos simples
